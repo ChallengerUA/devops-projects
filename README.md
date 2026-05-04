@@ -1,5 +1,7 @@
-# DevOps Projects
+# DevOps Projects 🚀
 
-My DevOps journey following roadmap.sh - 26 projects from zero.
+My DevOps journey following roadmap.sh from zero to hero.
+26 projects covering Linux, Bash, Docker, CI/CD, Ansible, Terraform and more.
 
-https://roadmap.sh/projects/server-stats
+## Goal
+Learn DevOps by building real projects, one at a time.
