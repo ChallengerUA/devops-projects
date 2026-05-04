@@ -15,3 +15,4 @@ A bash script that analyses basic server performance stats.
 ## How to run
 chmod +x server-stats.sh
 ./server-stats.sh
+Project: https://roadmap.sh/projects/server-stats
